@@ -1,6 +1,8 @@
 # Day 1 notes
+
 # command line
 ```
+$ python -m SimpleHTPPServer 8080
 $ mkdir todo-static
 $ touch index.html
 ```
